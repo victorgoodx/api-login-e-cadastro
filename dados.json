@@ -1,0 +1,40 @@
+[
+  {
+    "nome": "Jancer",
+    "email": "test@gmail.com",
+    "saldo": 100
+  },
+  {
+    "nome": "Jancer",
+    "email": "test@gmail.com",
+    "saldo": 100
+  },
+  {
+    "nome": "Jancer",
+    "email": "test@gmail.com",
+    "saldo": 100
+  },
+  {
+    "nome": "Jancer",
+    "email": "test@gmail.com",
+    "saldo": 100
+  },
+  {
+    "nome": "victor",
+    "email": "victorgoodx@gmail.com",
+    "dados": {},
+    "hash": "$2b$10$aVP2m.M0G1TefqUu58z4qukN1/LBB3pB5IC3BQH9U4Dzd3n4G48K6"
+  },
+  {
+    "nome": "joao",
+    "email": "joao@gmail.com",
+    "dados": {},
+    "hash": "$2b$10$TH1rr6/kBTTuWoeygDIIbeLtR8bg5bD2UPhgVk7sigkbIQYOm/Q4O"
+  },
+  {
+    "nome": "lao",
+    "email": "lao@gmail.com",
+    "dados": {},
+    "hash": "$2b$10$o5DqjmecmnW4ud6pvQg0bu9aWV/h20XGPN8cvPWrUjDYq/kVQZ3k2"
+  }
+]
